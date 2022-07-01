@@ -14,5 +14,5 @@ git commit -m "mi primer commit"
 # ver log
 git log
 # subir ficheros al repositorio
-git push https://ghp_zjcU1K6Ap61P5jB98tLmp90TaFReI2bXyvd@github.com/josemamira/hello-world.git
+git push https://<token>@github.com/josemamira/hello-world.git
 
