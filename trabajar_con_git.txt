@@ -1,0 +1,18 @@
+# crear repositorio
+git clone https://github.com/josemamira/hello-world.git
+# cambiar al repo
+ls
+cd hello-world/
+# ver status
+git status
+# crear un fichero normal con nano
+nano test.txt
+# añadirlo al HEAD
+git add test.txt
+# comentario del commit
+git commit -m "mi primer commit"
+# ver log
+git log
+# subir ficheros al repositorio
+git push https://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@github.com/josemamira/hello-world.git
+
