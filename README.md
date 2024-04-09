@@ -1,5 +1,5 @@
 # hello-world
 Proyecto para pruebas
-- Para todos
+- Para **todos**
 - Gratis
 - Libre
